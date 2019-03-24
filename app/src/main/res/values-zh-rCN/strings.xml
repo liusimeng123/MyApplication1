@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str2">你好</string>
+    <string name="str1">生日快乐</string>
+    <string name="str3">来自</string>
+    <string name="str4">刘思梦</string>
+</resources>
